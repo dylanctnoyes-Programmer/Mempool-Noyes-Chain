@@ -1,0 +1,6 @@
+{
+  "name": "Mempool Explorer - Bitcoin & Noyeschain",
+  "description": "A real-time interactive visualizer of the Bitcoin and Noyeschain mainnet mempools, featuring active block pipelines, pixel-grid transaction maps, custom SVG fee distribution charts, and a mock Noyeschain node console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
